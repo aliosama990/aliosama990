@@ -18,7 +18,7 @@ I developed the **complete Flutter client** for Malaz, a child-monitoring projec
 
 **Flutter · Dart · Provider · REST APIs · SignalR · Firebase Messaging**
 
-[Explore the client, architecture and setup →](https://github.com/aliosama990/Malaz-Flutter#readme)
+[Explore the client, architecture and setup →](https://github.com/aliosama990/Malaz-Flutter#readme-ov-file)
 
 ## Team projects
 
