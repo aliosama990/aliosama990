@@ -1,6 +1,6 @@
 # Open-source exploration
 
-These are upstream projects I am exploring for learning and possible future contributions. **Forking is not authorship or a contribution.** No completed upstream contribution is claimed, and the exploration forks have not received cosmetic commits.
+A focused collection of upstream projects for learning and future contributions. Forks retain their original authorship; the opportunities below are not completed contributions.
 
 My application work and genuine team projects remain in the [profile README](README.md).
 
@@ -32,4 +32,3 @@ For Flutter Samples, discuss the change in an issue first; upstream also require
 
 GitHub's upstream fork relationship, commit history and license files are preserved. Flutter Samples includes BSD-style code terms and additional font licensing; retain all applicable notices. Dio, Sanctum, Pest and Laravel MCP use MIT licenses. Mason's packages carry MIT license files. Check package/asset-specific notices before reuse.
 
-No upstream repository was modified by this curation. No issues, pull requests or contribution claims were manufactured.
