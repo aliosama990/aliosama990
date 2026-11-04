@@ -4,46 +4,56 @@
 Mansoura, Egypt · Computer Science graduate, 2026  
 Freelance software developer since May 2025.
 
-I work with Flutter and Laravel, with a focus on clear application structure, reliable API integration and maintainable code.
+I build mobile applications and work with Laravel APIs, focusing on clear structure, reliable integrations and maintainable code.
 
-[Email me](mailto:lyasamh704@gmail.com) · [Explore my repositories](https://github.com/aliosama990?tab=repositories)
+[Email me](mailto:lyasamh704@gmail.com) · [Repositories](https://github.com/aliosama990?tab=repositories)
 
 ---
+
+## Featured project
+
+### [Malaz — ongoing graduation project](https://github.com/aliosama990/Malaz-Flutter)
+
+I developed the **complete Flutter client** for Malaz, a child-monitoring project with child profiles, safe zones, chat, notifications and live device-event integration.
+
+**Flutter · Dart · Provider · REST APIs · SignalR · Firebase Messaging**
+
+[Explore the client, architecture and setup →](https://github.com/aliosama990/Malaz-Flutter#readme)
+
+## Team projects
+
+Native Kotlin Android applications developed with teammates. Project links lead to my forks; the original teams retain credit.
+
+### [Movie App / IMovie](https://github.com/aliosama990/IMovie)
+Movie and TV discovery, search, detailed media information and account libraries.
+
+**Kotlin · Jetpack Compose · Retrofit · Room · Hilt**  
+Upstream: [RedVelvet-Team/IMovie](https://github.com/RedVelvet-Team/IMovie)
+
+### [Marvel Hub](https://github.com/aliosama990/Marvel_Hub)
+Marvel character, comic, event and series exploration, with search and related-content details.
+
+**Kotlin · XML/Data Binding · ViewModels · RxJava3 · Retrofit · Room**  
+Upstream: [panCake8/Marvel_Hub](https://github.com/panCake8/Marvel_Hub)
 
 ## Skills
 
 - **Mobile:** Flutter, Dart, state management and Clean Architecture.
 - **Backend:** PHP, Laravel, MySQL and REST APIs.
-- **Quality:** testing, debugging and version control.
-- **AI-assisted development:** Claude and Codex, reusable Skills, Agents, MCP integrations and workflow automation—with human review and verification.
+- **Quality:** testing, debugging and Git.
+- **AI-assisted development:** Claude, Codex, Skills, Agents, MCP and workflow automation, with code review and verification.
 
-## Selected work
+## Further learning
 
-### [Malaz — Flutter client](https://github.com/aliosama990/Malaz-Flutter)
-A child-monitoring application with parent and child account flows, safe-zone management, API-backed chat, notifications and live device-event integration.
+[Diabetes Prediction](https://github.com/aliosama990/Diabetes-Prediction) — Python exploration, preprocessing and logistic regression in an educational notebook.
 
-**Flutter · Dart · Provider · REST APIs · SignalR · Firebase Messaging**
+<details>
+<summary>Open-source interests</summary>
 
-The repository contains the mobile client; its external backend is a separate dependency. Some report entries are sample data. See the README for implemented capabilities and setup requirements.
+I explore Flutter, networking, Laravel authentication, testing and developer tooling through a [focused collection of upstream projects](OPEN_SOURCE.md). These learning forks are separate from my authored work and team projects.
 
-### Collaborative Android projects
-
-I participated in the following projects with teammates. These are **native Kotlin Android applications**. The descriptions below summarize the team codebases; they do not claim individual feature ownership.
-
-- **[Movie App / IMovie](https://github.com/aliosama990/IMovie)** — Movie and TV discovery, search, media details and account-library integrations. Built with Kotlin, Jetpack Compose, Retrofit, Room and Hilt in a modular codebase. Original project: **RedVelvet-Team**.
-- **[Marvel Hub](https://github.com/aliosama990/Marvel_Hub)** — Browse and search Marvel characters, comics, events and series, with related-content details. Built with Kotlin, XML/Data Binding, ViewModels, RxJava3, Retrofit, Room and Hilt. Original project: **panCake8**.
-
-These projects illustrate concepts relevant across mobile stacks: state management, separation of concerns, API integration and persistence.
-
-### [Diabetes Prediction — learning project](https://github.com/aliosama990/Diabetes-Prediction)
-A Python notebook covering exploratory analysis, preprocessing, logistic regression and classification evaluation. An educational experiment, with its evaluation limitations documented.
-
-**Python · pandas · scikit-learn · Jupyter**
-
-## Open-source interests
-
-I am exploring Flutter examples, Dart networking, Laravel API authentication, PHP testing and developer automation. These are upstream projects, not applications I authored. See my [focused collection and contribution ideas](OPEN_SOURCE.md).
+</details>
 
 ## Contact
 
-For software development enquiries: **[lyasamh704@gmail.com](mailto:lyasamh704@gmail.com)**.
+Software development enquiries: **[lyasamh704@gmail.com](mailto:lyasamh704@gmail.com)**.
